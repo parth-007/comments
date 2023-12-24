@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.btn-container button {
+  cursor: pointer;
+}
+
+.btn.btn-primary,
+.btn.btn-secondary {
+  font-size: 12px
+}
